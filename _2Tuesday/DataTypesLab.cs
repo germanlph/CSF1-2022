@@ -25,6 +25,8 @@ namespace _2Tuesday
              * the min and one that uses the max value for at
              * least one whole number type and display them.
              */
+
+            Console.WriteLine("Something on this \n line");
         }
     }
 }
