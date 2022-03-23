@@ -1,0 +1,7 @@
+D:\Projects\centriq\CSF1_S\CSF1\CSF1\bin\Debug\CSF1.exe.config
+D:\Projects\centriq\CSF1_S\CSF1\CSF1\bin\Debug\CSF1.exe
+D:\Projects\centriq\CSF1_S\CSF1\CSF1\bin\Debug\CSF1.pdb
+D:\Projects\centriq\CSF1_S\CSF1\CSF1\obj\Debug\CSF1.csprojAssemblyReference.cache
+D:\Projects\centriq\CSF1_S\CSF1\CSF1\obj\Debug\CSF1.csproj.CoreCompileInputs.cache
+D:\Projects\centriq\CSF1_S\CSF1\CSF1\obj\Debug\CSF1.exe
+D:\Projects\centriq\CSF1_S\CSF1\CSF1\obj\Debug\CSF1.pdb
