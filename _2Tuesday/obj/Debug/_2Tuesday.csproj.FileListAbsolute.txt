@@ -1,0 +1,6 @@
+D:\Projects\centriq\CSF1_S\CSF1\_2Tuesday\bin\Debug\_2Tuesday.exe.config
+D:\Projects\centriq\CSF1_S\CSF1\_2Tuesday\bin\Debug\_2Tuesday.exe
+D:\Projects\centriq\CSF1_S\CSF1\_2Tuesday\bin\Debug\_2Tuesday.pdb
+D:\Projects\centriq\CSF1_S\CSF1\_2Tuesday\obj\Debug\_2Tuesday.csproj.CoreCompileInputs.cache
+D:\Projects\centriq\CSF1_S\CSF1\_2Tuesday\obj\Debug\_2Tuesday.exe
+D:\Projects\centriq\CSF1_S\CSF1\_2Tuesday\obj\Debug\_2Tuesday.pdb
