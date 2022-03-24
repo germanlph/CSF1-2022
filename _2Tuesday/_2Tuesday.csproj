@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_2Tuesday.CastingLab</StartupObject>
+    <StartupObject>_2Tuesday.Operators</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -49,6 +49,7 @@
     <Compile Include="Casting.cs" />
     <Compile Include="CastingLab.cs" />
     <Compile Include="DataTypesLab.cs" />
+    <Compile Include="Operators.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
