@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_3Wednesday.WaterLab</StartupObject>
+    <StartupObject>_3Wednesday.StringsRevisited</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,7 +48,9 @@
   <ItemGroup>
     <Compile Include="Change.cs" />
     <Compile Include="InputParseConvert.cs" />
+    <Compile Include="LogicComparison.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringsRevisited.cs" />
     <Compile Include="WaterLab.cs" />
   </ItemGroup>
   <ItemGroup>
