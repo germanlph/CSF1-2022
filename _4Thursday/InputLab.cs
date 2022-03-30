@@ -25,6 +25,20 @@ namespace _4Thursday
              * the cable bill.
              */
 
+            Console.WriteLine("What is your favorite season?");
+            string favSeason = Console.ReadLine();
+            Console.WriteLine("What is your favorite car?");
+            string favCar = Console.ReadLine();
+            Console.WriteLine("What is your favorite TV show?");
+            string favShow = Console.ReadLine();
+            Console.WriteLine("How much money did you spend on cable last year?");
+            string cableExpenseString = Console.ReadLine();
+            decimal cableExpense = decimal.Parse(cableExpenseString);
+
+            Console.WriteLine($"Your favorite season is {favSeason}.\nYour favorite car is {favCar}." +
+                $"\nYour favorite TV show is {favShow}.\n" +
+                $"You spent {cableExpense:c} on cable last year? Phew!");
+
         }
     }
 }

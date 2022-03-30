@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_4Thursday.InputLab</StartupObject>
+    <StartupObject>_4Thursday.BranchingIf</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -48,6 +48,7 @@
   <ItemGroup>
     <Compile Include="Arrays.cs" />
     <Compile Include="ArraysLab.cs" />
+    <Compile Include="BranchingIf.cs" />
     <Compile Include="InputLab.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
