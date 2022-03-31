@@ -183,7 +183,7 @@ namespace _4Thursday
             // BooleanCondition ? codeIfTrue : codeIfFalse;
             Console.WriteLine("How many Daleks are there?");
             int dalekCount = int.Parse(Console.ReadLine());
-            Console.WriteLine("Oh, no! {0} Dalek{1}!", dalekCount, dalekCount == 1 ? "" : "s");
+            Console.WriteLine("Oh, no! {0} Dalek{1}!", dalekCount, dalekCount == 1 ? "" : "");
         }
     }
 }

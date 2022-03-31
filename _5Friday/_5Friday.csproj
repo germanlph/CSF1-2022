@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{EE2CF978-8677-4B04-9D65-825E0588041F}</ProjectGuid>
+    <ProjectGuid>{048B0297-371B-4308-A953-9D7AA15F4087}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>_4Thursday</RootNamespace>
-    <AssemblyName>_4Thursday</AssemblyName>
+    <RootNamespace>_5Friday</RootNamespace>
+    <AssemblyName>_5Friday</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_4Thursday.BranchingSwitch</StartupObject>
+    <StartupObject>_5Friday.LoopingWhile</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,11 +46,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Arrays.cs" />
-    <Compile Include="ArraysLab.cs" />
-    <Compile Include="BranchingIf.cs" />
-    <Compile Include="BranchingSwitch.cs" />
-    <Compile Include="InputLab.cs" />
+    <Compile Include="LoopingFor.cs" />
+    <Compile Include="LoopingWhile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
