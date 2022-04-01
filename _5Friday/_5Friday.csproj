@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>_5Friday.LoopingWhile</StartupObject>
+    <StartupObject>_5Friday.LoopingForEach</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -46,7 +46,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LoopingDoWhile.cs" />
     <Compile Include="LoopingFor.cs" />
+    <Compile Include="LoopingForEach.cs" />
     <Compile Include="LoopingWhile.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
